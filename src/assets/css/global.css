@@ -1,0 +1,13 @@
+/*全局样式表*/
+html,body,#app{
+	/* background: radial-gradient(200% 100% at bottom center,#f7f7b6,#e96f92,#1b2947);
+	background: radial-gradient(200%,100% at top center #1b2947,#75517d,#e96f92); */
+	background: url(../img/bg.jpg);
+	background-size:120rem;
+ 	height: 100%;
+ 	margin: 0;
+ 	padding: 0;
+	min-width: 960px;
+	font-family: "PingFang SC";
+}
+
