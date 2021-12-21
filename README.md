@@ -1,4 +1,4 @@
-# apartment
+# 地图可视化库inmap应用
 
 使用vue+inmap做的页面
 
