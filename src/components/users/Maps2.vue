@@ -36,46 +36,46 @@ data () {
 },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"广东","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"广东","count":0}
 ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
 },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"广西","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"广西","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"重庆","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"重庆","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"江西","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"江西","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"湖南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"湖南","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"浙江","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"浙江","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"贵州","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"贵州","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"河北","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"河北","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"河南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"河南","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"江苏","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"江苏","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"辽宁","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"辽宁","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"内蒙古","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"内蒙古","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"宁夏","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"宁夏","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"山东","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"山东","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"四川","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"四川","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"云南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"云南","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"安徽","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"安徽","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"青海","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"青海","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"甘肃","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"甘肃","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"黑龙江","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"黑龙江","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"吉林","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"吉林","count":0}
-,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
-},"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"陕西","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"陕西","count":0},
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"重庆","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"重庆","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"江西","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"江西","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"湖南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"湖南","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"浙江","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"浙江","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"贵州","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"贵州","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"河北","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"河北","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"河南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"河南","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"江苏","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"江苏","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"辽宁","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"辽宁","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"内蒙古","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"内蒙古","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"宁夏","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"宁夏","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"山东","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"山东","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"四川","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"四川","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"云南","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"云南","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"安徽","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"安徽","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"青海","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"青海","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"甘肃","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"甘肃","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"黑龙江","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"黑龙江","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"吉林","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"吉林","count":0}
+// ,{"type":"Feature","geometry":{"type":"Polygon","coordinates":[]
+// },"properties":{"OBJECTID_1":1,"AD_CODE":"2","NAME":"陕西","Shape_Leng":0.752001510489,"Shape_Area":0.0154234421746},"name":"陕西","count":0},
 
 ]}},
   created(){
